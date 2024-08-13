@@ -1,0 +1,37 @@
+C:/Users/selçuk/Desktop/kelimebulmaca/kelimebulmaca/bin/Debug/kelimebulmaca.exe
+C:/Users/selçuk/Desktop/kelimebulmaca/kelimebulmaca/bin/Debug/kelimebulmaca.pdb
+C:/Users/selçuk/Desktop/kelimebulmaca/kelimebulmaca/obj/x86/Debug/ResolveAssemblyReference.cache
+C:/Users/selçuk/Desktop/kelimebulmaca/kelimebulmaca/obj/x86/Debug/kelimebulmaca.Properties.Resources.resources
+C:/Users/selçuk/Desktop/kelimebulmaca/kelimebulmaca/obj/x86/Debug/GenerateResource.read.1.tlog
+C:/Users/selçuk/Desktop/kelimebulmaca/kelimebulmaca/obj/x86/Debug/GenerateResource.write.1.tlog
+C:/Users/selçuk/Desktop/kelimebulmaca/kelimebulmaca/obj/x86/Debug/kelimebulmaca.exe
+C:/Users/selçuk/Desktop/kelimebulmaca/kelimebulmaca/obj/x86/Debug/kelimebulmaca.pdb
+C:/Users/selçuk/Desktop/kelimebulmaca/kelimebulmaca/obj/x86/Debug/kelimebulmaca.frmbul.resources
+D:/masaüstü/c sharp uygulamalar/2012-2013/kelimebulmaca/kelimebulmaca/obj/x86/Debug/kelimebulmaca.exe
+D:/masaüstü/c sharp uygulamalar/2012-2013/kelimebulmaca/kelimebulmaca/obj/x86/Debug/kelimebulmaca.pdb
+C:/Users/Vento/Desktop/senturkenes.com/senturkenes.com/kelimebulmaca/kelimebulmaca/obj/x86/Debug/kelimebulmaca.exe
+C:/Users/Vento/Desktop/senturkenes.com/senturkenes.com/kelimebulmaca/kelimebulmaca/obj/x86/Debug/kelimebulmaca.pdb
+C:/Users/Vento/Desktop/senturkenes.com/senturkenes.com/kelimebulmaca/kelimebulmaca/bin/Debug/kelimebulmaca.exe
+C:/Users/Vento/Desktop/senturkenes.com/senturkenes.com/kelimebulmaca/kelimebulmaca/bin/Debug/kelimebulmaca.pdb
+C:/Users/Vento/Desktop/senturkenes.com/senturkenes.com/kelimebulmaca/kelimebulmaca/obj/x86/Debug/kelimebulmaca.csprojResolveAssemblyReference.cache
+C:/Users/Vento/Desktop/senturkenes.com/senturkenes.com/kelimebulmaca/kelimebulmaca/obj/x86/Debug/kelimebulmaca.frmbul.resources
+C:/Users/Vento/Desktop/senturkenes.com/senturkenes.com/kelimebulmaca/kelimebulmaca/obj/x86/Debug/kelimebulmaca.Properties.Resources.resources
+C:/Users/Vento/Desktop/senturkenes.com/senturkenes.com/kelimebulmaca/kelimebulmaca/obj/x86/Debug/kelimebulmaca.csproj.GenerateResource.Cache
+C:/Users/lenovo/source/repos/kelime bulma oyunu/kelimebulmaca/bin/Debug/kelimebulmaca.exe
+C:/Users/lenovo/source/repos/kelime bulma oyunu/kelimebulmaca/bin/Debug/kelimebulmaca.pdb
+C:/Users/lenovo/source/repos/kelime bulma oyunu/kelimebulmaca/obj/x86/Debug/kelimebulmaca.csproj.AssemblyReference.cache
+C:/Users/lenovo/source/repos/kelime bulma oyunu/kelimebulmaca/obj/x86/Debug/kelimebulmaca.frmbul.resources
+C:/Users/lenovo/source/repos/kelime bulma oyunu/kelimebulmaca/obj/x86/Debug/kelimebulmaca.Properties.Resources.resources
+C:/Users/lenovo/source/repos/kelime bulma oyunu/kelimebulmaca/obj/x86/Debug/kelimebulmaca.csproj.GenerateResource.cache
+C:/Users/lenovo/source/repos/kelime bulma oyunu/kelimebulmaca/obj/x86/Debug/kelimebulmaca.csproj.CoreCompileInputs.cache
+C:/Users/lenovo/source/repos/kelime bulma oyunu/kelimebulmaca/obj/x86/Debug/kelimebulmaca.exe
+C:/Users/lenovo/source/repos/kelime bulma oyunu/kelimebulmaca/obj/x86/Debug/kelimebulmaca.pdb
+/Users/bertanoruc42/Desktop/kelime bulma oyunu/kelimebulmaca/bin/Debug/kelimebulmaca.exe
+/Users/bertanoruc42/Desktop/kelime bulma oyunu/kelimebulmaca/bin/Debug/kelimebulmaca.pdb
+/Users/bertanoruc42/Desktop/kelime bulma oyunu/kelimebulmaca/obj/x86/Debug/kelimebulmaca.csproj.AssemblyReference.cache
+/Users/bertanoruc42/Desktop/kelime bulma oyunu/kelimebulmaca/obj/x86/Debug/kelimebulmaca.frmbul.resources
+/Users/bertanoruc42/Desktop/kelime bulma oyunu/kelimebulmaca/obj/x86/Debug/kelimebulmaca.Properties.Resources.resources
+/Users/bertanoruc42/Desktop/kelime bulma oyunu/kelimebulmaca/obj/x86/Debug/kelimebulmaca.csproj.GenerateResource.cache
+/Users/bertanoruc42/Desktop/kelime bulma oyunu/kelimebulmaca/obj/x86/Debug/kelimebulmaca.csproj.CoreCompileInputs.cache
+/Users/bertanoruc42/Desktop/kelime bulma oyunu/kelimebulmaca/obj/x86/Debug/kelimebulmaca.exe
+/Users/bertanoruc42/Desktop/kelime bulma oyunu/kelimebulmaca/obj/x86/Debug/kelimebulmaca.pdb
